@@ -1,14 +1,44 @@
-Huge thanks to: http://onj3.andrelouis.com/phonetones/zipped/Samsung/
-Without yall, it wouldnt be possible!
+Thanks for sharing your README.md, Egor. You’ve clearly explained the purpose and structure of your ringtone archive — great job organizing it by year and UI.
 
-What?
-Samsung phonetones repository, sorted by UI. UI's from 2009-2025.
+Here’s a cleaner, slightly polished version with improved formatting and flow, while keeping your voice:
 
-Why?
-Navigating phonetones can be difficult. Heres a few examples. If you want to reminiscence a ringtone you had on your old phone but dont remember the exact model, you can think a little when did you use that ringtone and find it in my repository. Theese are sorted by year. If you want to make a video like (Evolution of samsung message tone) or something, you need to spend extra time researching. If they are sorted by UI, its easier.
+📱 Samsung Phonetones by UI (2009–2025)
+Huge thanks to:
+🔗 http://onj3.andrelouis.com/phonetones/zipped/Samsung/
+Without this source, this project wouldn’t be possible!
 
-How?
-Its easy! The ringtones are sorted by year, so if you want a ringtone from 2013, you can just look at 2013. Ahh i found it. If you ringtone is other OS or not found, you can look at the Misc directory.
-In every directory there's a readme.md (IM NOT JOKING). This will tell you more about the directory you are currently in. An exception is the "Misc." directory. It has an .md file, but not powerful enough to be a readme.md. Its a list of default ringtones of each device.
+📂 What is this?
+A full repository of Samsung ringtones and notification tones, sorted by user interface (UI) — from 2009 to 2025.
+Whether it’s TouchWiz, Grace UX, or One UI, this archive helps you find the tone you remember — fast.
 
-PS: If your device is updated (example: Samsung Galaxy S3 (my old phone) was updated to Nature UX Premium Suite but didnt get the Nature UX Premium Suite ringtones). Some exceptions are BTS Over the Horizon ringtones.
+🤔 Why did I make this?
+Finding ringtones can be a mess.
+
+Let’s say:
+
+You remember a tone from your old Samsung, but forget the model.
+
+Or you want to make a video like "Evolution of Samsung Message Tones."
+
+Normally, you'd have to search device by device.
+With this repo, you just think: “Hmm, that was around 2013…”
+Then go to the 2013 folder, and boom — there it is.
+
+🛠️ How it works
+📅 Ringtones are sorted by year, which also roughly maps to UI version.
+
+📁 Inside each folder, there’s a README.md explaining what’s in that folder.
+
+📄 The Misc folder contains rare tones and non-UI-specific tones. It includes a markdown file listing default tones per device (not a full README, but still useful).
+
+⚠️ Note:
+Some Samsung devices did not receive updated ringtones, even after a UI update.
+Example: My old Galaxy S3 got the Premium Suite, but never got the new Nature UX ringtones.
+
+There are also special cases, like:
+
+💜 BTS Edition ringtones
+
+💼 Business models with unique tones
+
+Let me know if you want this version added to your repo, or if you'd like help improving the per-folder README.md files too.
